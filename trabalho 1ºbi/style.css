@@ -1,0 +1,18 @@
+body {
+
+    background-image: url(https://wallpaper.forfun.com/fetch/53/53cf132024332921c95a425377bdcdf7.jpeg
+);
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: -140px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.divAlignRight{
+    position: absolute;
+    top: 46px;
+    right:20px;
+}
