@@ -1,0 +1,69 @@
+table{
+border-collapse: collapse;
+width:70%;
+margin: 17px;
+
+
+}
+
+.estatisticas{
+text-align: center;
+font-size: 14px;
+
+
+}
+
+th,td{
+    border:1px solid #DDDDDD;
+  padding: 8px;
+
+}
+
+
+.divcolorname{
+    font-size: 14px;
+    color: #666666;
+}
+.separar{
+    border-top: 2px solid #CCCCCC;
+}
+.numero{
+color: #003366;
+}
+.quatro{
+    color: #1398BE;
+}
+.cinco{
+    color: #de9800;
+}
+.seis{
+    color: #c91b04;
+}
+
+.legenda{
+    margin-top: 16px;
+    font-size: 13px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.legenda.cores{
+margin-bottom: 5px;
+
+}
+.legenda span{
+    font-size: 24px;
+    margin-right: 4px;
+}
+.libertadores{
+    color: #005bac;
+}
+.pré libertadores{
+    color: #00adef;
+}
+.sul-americana{
+    color: #ffcc00;
+}
+.rebaixados{
+    color: #f60000;
+}
